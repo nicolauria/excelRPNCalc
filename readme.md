@@ -1,6 +1,7 @@
 ## Excel RPN Calculator
 Java program that reads an excel file and processes the data in each cell
-as an RPN calculator. The following is an example input file:
+as an RPN calculator.<br>
+The following is an example input file:
 
 <img src="example-excel-file.png" width="975">
 
