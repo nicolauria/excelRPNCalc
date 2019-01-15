@@ -5,6 +5,8 @@ The following is an example input file:
 
 <img src="example-excel-file.png" width="975">
 
+There are two folders in the repo:
+
 ### excelRPNCode
 contains the code used to build the program<br>
 **src/excelRPNCalc/excelRPNCalc.java** - main program file<br>
